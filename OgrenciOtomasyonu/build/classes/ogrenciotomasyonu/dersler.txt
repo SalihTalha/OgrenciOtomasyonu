@@ -1,0 +1,10 @@
+1306 DevrelerVeSistemler B702 12:00 Pazartesi AhmetŞerif 3
+1607 Biyoloji C130 13:00 Salı SerkanKaraismailoğlu 4
+4565 VeriYapıları F4 15:45 Çarşamba İrfanSarp 2
+5523 LojikDevreTasarımı F16 16:30 Çarşamba BanuAvar 1
+4752 Matematik C4 18:00 Çarşamba EmileAjar 2 
+7217 NesneYönelimliProgramlama B40 11:00 Perşembe GrigoryPetrov 4
+7321 Girişimcilik A130 15:00 Perşembe Asimov 3
+4895 Calculus BİM 17:00 Perşembe CarlSagan 1
+4787 Bilişim A101 10:30 Cuma MuhittinErgüneş 3
+1 Boşİşler A123 14:00 Cuma Salih 4

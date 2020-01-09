@@ -1,0 +1,3 @@
+20318310424 SalihAkgün 1500 12 idaredeTakılıyor 12345
+1 Mehmet 3000 10 SalihleTakılıyor 1
+123456 Memur 35YolunYar�s� 1500 15 yeniKayıtlıMemur 12345
